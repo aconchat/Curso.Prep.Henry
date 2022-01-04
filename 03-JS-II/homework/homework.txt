@@ -1,0 +1,18 @@
+for
+
+es una estructura de control que nos permite crear un ciclo, 
+y recorrerlo hasta que se cumplan las condiciones que rompen el ciclo.
+
+&&
+
+es un operador logico que nos permite hacer una conjuncion la cual sera valida,
+si las condiciones son ciertas.
+
+||
+
+es un operador logico que nos permite hacer una disyuncion la cual sera valida,
+si una de las condiciones son ciertas.
+
+!
+
+Not es un operador logico que devuelve el valor opuesto.
