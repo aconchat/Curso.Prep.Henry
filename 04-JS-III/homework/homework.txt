@@ -1,0 +1,4 @@
+Arrays
+
+Son contenedores de elementos que pueden ser de varios tipos, numeros, palabras, etc.
+y que nos permiten guardar estos elementos.
