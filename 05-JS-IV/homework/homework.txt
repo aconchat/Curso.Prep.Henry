@@ -1,0 +1,22 @@
+* Objetos:
+
+Los objetos son contenedores de elementos a diferencia de los arreglos estos elementos estan definidos
+por propiedades, es decir aca elemento dentro de un objeto va a pertenecer a cierta propiedad
+	
+* Propiedades:
+
+Las propiedades van a identificar a los elementos como variables, strings, arrays o funciones dentro del objeto 
+	
+* Métodos:
+los metodos van a ser funciones que se guardan dentro de un objeto
+	
+* Bucle `for…in`
+
+nos va permitir recorrer el objeto para encontrar la clave buscada
+
+* Notación de puntos vs notación de corchetes
+
+La notacion de corchetes va ser utilizada cuando el nombre de la propiedad esta contenida dentro de una variables
+y la notacion de punto cuando esa propiedad este definida por un nombre
+
+nota no definir variables con claves reservadas.
