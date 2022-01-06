@@ -1,0 +1,6 @@
+* `prototype`
+es una propiedad de las clases que nos permite asiganar metodos a los objetos perteniecientes a la clase
+
+* _Constructors_ (de Clases)
+
+permite que los objetos de la clase tengan las mismas propiedades.
