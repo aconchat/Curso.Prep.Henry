@@ -1,0 +1,8 @@
+* Funciones Callback
+
+Estas funciones nos permiten utilizar funciones como argumentos para otras funciones
+de las cuales son For each que nos permite recorrer un arreglo, reduce nos permite 
+de la misma manera recorrrer un arreglo pero va sacando item por item para guardarlo 
+en otra variable s necesitan dos argumentos un acumulador y otra variabe para los elementos
+dentro del arreglo, la otra es map que nos permite campiar los valores dentro del arreglo 
+como por ejemplo sacar el doble de caa elemento.
